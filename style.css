@@ -2,3 +2,34 @@ h1,
 h2 {
     text-align: center;
 }
+
+body {
+    background-color: black;
+}
+
+h1,
+h2,
+h3,
+ul,
+ol,
+footer,
+fieldset {
+    color: gold;
+}
+
+h3,
+h2 {
+    background-color: DodgerBlue;
+}
+
+h3 {
+    background-color: tomato;
+}
+
+ul {
+    border-color: gold;
+}
+
+div {
+    width: 300px;
+}
